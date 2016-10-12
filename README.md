@@ -67,7 +67,7 @@ Péter Szilágyi spoke about Ethereum -- a blockchain (like Bitcoin) based syste
 where you could run programs.  They had Denial of Service (DoS) issues last month
 based on caching bugs but he was able to fix this with immutability in Go. Go
 didn't have direct support for immutability but strings (and not slices) were
-immutable.  Also he was able to make structs immutability indirectly.
+immutable.  Also he was able to make structs immutable indirectly.
 
 https://ethereum.karalabe.com/talks/2016-dotgo.html
 
