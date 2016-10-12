@@ -1,6 +1,6 @@
 We arrived in Paris on the Friday via the Eurostar from London and spent a
 couple of days doing the usual tourist things (art galleries, Churches etc.)
-before turning up to the Theatre De Paris for our second Dotgo conference on
+before turning up to the Theatre De Paris for our second dotGo conference on
 the Monday morning.
 
 The doors opened a few minutes late (time spent usefully chatting with others
@@ -15,7 +15,7 @@ taking two since they were in short supply but I had the legitimate excuse
 that Sue my partner (and fellow programmer) would want one. 
 
 We took a box at on the first floor which overlooked the stage and settled
-down.  The Master of Celebrities introduced himself on stage and presented "Le
+down.  The Master of Ceremonies introduced himself on stage and presented "Le
 Gopher" -- a mysterious cloaked figure -- who spoke with a booming voice and
 was unveiled to reveal a massive (well over average human size) gopher stuffed
 giant.
@@ -78,7 +78,7 @@ The buffet food at lunch was absolutely superb, much better than the average
 tech conference food (London Go Conference I'm thinking of you!)  although
 oddly there were no paper plates so one had to balance mini-pizza on tissue
 paper.  Sadly Sue got quite angry about the toilet facilities for women and I
-learnt that in the entire building only one toilet cubical downstairs was
+learnt that in the entire building only one toilet cubicle downstairs was
 available for women (and shared with disabled!). But over all I thought the
 conference organisation was well above average (and I've been to many tech
 conferences).  Many of us, including myself, had our photos taken with "Le
@@ -182,5 +182,5 @@ explaining things so well, by pitching at a high level, that for a few minutes
 I thought I understood it all very clearly. Then I thought a bit more and
 realised this was just the tip of the iceberg and how much more there was to it.
 
-Anyway a great insight into how Go is developed and extended (and a example of
+Anyway a great insight into how Go is developed and extended (and an example of
 how other software should be extended) and a great finish to the day.
